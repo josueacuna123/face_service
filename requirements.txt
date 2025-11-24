@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-numpy
+numpy==1.23.5
 opencv-python-headless
 deepface==0.0.78
 tensorflow==2.11.0
